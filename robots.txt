@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leads.rankintelligence.net/sitemap.xml
